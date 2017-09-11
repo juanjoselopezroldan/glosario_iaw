@@ -13,7 +13,14 @@ Glosario conceptos y términos relacionados con el módulo de Implantación de A
 ## G
 ## H
 ## I
+
+* **Integración continúa (IC)**:
+
 ## J
+
+* **java**:
+* **javascript**:
+
 ## K
 ## L
 ## M
@@ -22,10 +29,14 @@ Glosario conceptos y términos relacionados con el módulo de Implantación de A
 ## O
 ## P
 
-* *php*:
+* **php**:
+* **python**:
 
 ## Q
 ## R
+
+* **ruby**:
+
 ## S
 ## T
 ## U
