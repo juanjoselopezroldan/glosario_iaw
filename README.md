@@ -12,7 +12,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## C
 ## D
 
-* **Despleigue continuo (DC)**:
+* **Despleigue continuo (DC)**: Es cuando una aplicacion mediante una herramienta comprueba el codigo del desarrollador de una aplicacion y automatiza el proceso de puesta en produccion de esta,evitando desplegar manualmente 
 
 ## E
 
