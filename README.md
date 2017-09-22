@@ -20,6 +20,10 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 ## F
 ## G
+
+* **GitHub**:
+* **GitHub Pages**:
+
 ## H
 ## I
 
@@ -29,6 +33,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 * **java**:
 * **javascript**:
+* **Jekyl**:
 
 ## K
 ## L
