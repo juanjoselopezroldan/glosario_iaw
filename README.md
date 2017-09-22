@@ -33,7 +33,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## K
 ## L
 ## M
-* **Markdown**:
+* **Markdown**: Es un Lenguaje de Marcas mas simple que otros que conocemos como  HTML o XML. Además de ser mas sencillo es mas legible. Por ejemplo en html para escribir un titulo grande pues tendriamos que poner:<pre> '&lt;h1&gt;HOLA&lt;/h1&gt;' </pre> Y en Markdown: <pre>'# HOLA'</pre>  
 
 ## N
 ## Ñ
