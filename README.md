@@ -6,7 +6,9 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 ## A
 
-* **Aplicación web**:
+
+
+* **Aplicación web**:Es un tipo de software que se codifica en un tipo de lenguaje que es soportado por los navegadores web.
 
 ## B
 ## C
@@ -22,7 +24,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## G
 
 * **GitHub**:
-* **GitHub Pages**:
+* **GitHub Pages**: Es un sitio para nuestros proyectos los cuales nos permite tenerlos alojados en una pagina web sin necesidad de tener conocimientos en servidores.
 
 ## H
 ## I
