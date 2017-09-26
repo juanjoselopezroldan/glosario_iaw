@@ -23,12 +23,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## F
 ## G
 
-<<<<<<< HEAD
-* **GitHub**:
-
-=======
 * **GitHub**: GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
->>>>>>> 1633c6df7b8dbc3ea27bcec4b1a3dd1f14896b13
 * **GitHub Pages**: Es un sitio para nuestros proyectos los cuales nos permite tenerlos alojados en una pagina web sin necesidad de tener conocimientos en servidores.
 
 ## H
