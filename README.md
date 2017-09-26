@@ -46,7 +46,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## P
 
 * **php**:
-* **python**:
+* **python**: Es un lenguaje de programación interpretado cuyo principal objetivo ser facilmente legible. Es multiplataforma ya que soporta orientación a objetos, programación imperativa y funcional. Tiene tipado dinámico. Es de código abierto con licencia GNU.
 
 ## Q
 ## R
