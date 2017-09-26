@@ -24,11 +24,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## G
 
 * **GitHub**:
-<<<<<<< HEAD
 * **GitHub Pages**: Es un sitio para nuestros proyectos los cuales nos permite tenerlos alojados en una pagina web sin necesidad de tener conocimientos en servidores.
-=======
-* **GitHub Pages**:
->>>>>>> c6b16cf837636ec93dacb708e1d6c49744f3cb83
 
 ## H
 ## I
