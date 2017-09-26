@@ -33,7 +33,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 
 * **java**:
 * **javascript**:
-* **Jekyl**:
+* **Jekyll**: Es un motor para crear páginas web estáicas. Está escrito en ruby y es de código abierto.
 
 ## K
 ## L
