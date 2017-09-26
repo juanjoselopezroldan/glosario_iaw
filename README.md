@@ -51,7 +51,7 @@ Glosario de conceptos y términos relacionados con el módulo de Implantación d
 ## Q
 ## R
 
-* **ruby**: 
+* **ruby**: Es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto.
 
 ## S
 ## T
